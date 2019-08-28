@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2C06DABF-A0A4-44B6-D2AA-4AF82129BB1F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scriptd/BPMCircle.cs">
+    <Files>
+      <File FileName="Assets/Scriptd/BPMCircle.cs" Line="15" Column="13" />
+      <File FileName="Assets/Scriptd/SerialLight.cs" Line="60" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ardino test[sonic]" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scriptd" expanded="True">
+                <Node name="BPMCircle.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa787fe0-ba89-43c1-8135-eb753609aaad" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
